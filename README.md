@@ -7,7 +7,7 @@ This project is an automated deployment system created using Bash scripting.
 The purpose of the project is to automatically generate the complete structure required for a Student Attendance Tracker application while applying Infrastructure as Code (IaC) principles.
 
 The script minimizes manual setup and ensures all deployments follow the same consistent structure.
-You can watch my video explaing the project here:
+You can watch my video explaing the project here:https://www.veed.io/view/6c52a184-fe74-4cb3-ab0e-502c87c9e54c?panel=share
 
 ---
 
